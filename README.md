@@ -2,7 +2,7 @@
 
 ## Versions
 
-firebase-tools: v13.22.1<br>
+firebase-tools: v13.22.0<br>
 node: v18.19.1<br>
 platform: macOS Sonoma 14.7
 
@@ -21,7 +21,7 @@ i  emulators: Detected demo project ID "demo-project", emulated services will us
 i  ui: Emulator UI logging to ui-debug.log
 i  functions: Watching "/Users/<PATH>/issues/7844/functions" for Cloud Functions...
 ✔  functions: Using node@18 from host.
-Serving at port 8692
+Serving at port 8063
 
 ✔  functions: Loaded functions definitions from source: test.
 ✔  functions[us-central1-test]: http function initialized (http://127.0.0.1:5001/demo-project/us-central1/test).
